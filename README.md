@@ -17,5 +17,5 @@ It showcases my education, skills, projects, certifications, achievements, and c
 - Profile image integration
 
 ---
-
-## Project Structure
+## 🔗 Live Portfolio
+https://venkateswarlu1813.github.io/Portfolio_Venkateswarlu/
